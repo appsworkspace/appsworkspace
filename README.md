@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi, I'm Apps and this is my workspace !
+
+```bash
+My-Profile $ go to https://adeputraprimasuhendri.github.io
+
+Co-Founder $ check this out https://kasehat.co.id
+
+Donate-BTC $ 14gnmRTSccbpff6UmhCm2BWiE3c1tnaAZb
+```
+
+[![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-Ade%20Putra%20Prima%20Suhendri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeputraprimasuhendri/)](https://www.linkedin.com/in/adeputraprimasuhendri/) [![Linkedin: kasehatindonesiateknologi](https://img.shields.io/badge/-PT.%20Kasehat%20Indonesia%20Teknologi-darkgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/kasehatindonesiateknologi/)](https://www.linkedin.com/company/kasehatindonesiateknologi/)
 
 <!--
-**appsworkspace/appsworkspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adeputraprimasuhendri/adeputraprimasuhendri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
